@@ -1,0 +1,27 @@
+.loginContainer
+{
+    height: 100vh;
+    background-color: rgb(229, 183, 231);
+}
+
+.loginForm
+{
+    text-align: center;
+}
+.loginContainerChild1
+{
+    background-color: rgb(86, 63, 138);
+    height: 15rem;
+    width: 14rem;
+    transform: translate(60%,50%);
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    bottom: 50%;
+    left: 30%;
+    right: 50%;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

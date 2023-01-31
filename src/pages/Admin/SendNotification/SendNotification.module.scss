@@ -1,0 +1,19 @@
+.sendNotification
+{
+    height: 2rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.messageHeading
+{
+    text-align: center;
+    // color: red;
+    transform: translate(100%,50%);
+}
+.message
+{
+   transform: translate(140%);
+    height: 4rem;
+    width: 20rem;
+}

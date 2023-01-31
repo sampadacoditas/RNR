@@ -1,0 +1,26 @@
+.adminContainer
+{
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(222, 158, 76);
+    
+    .adminSales
+    {
+        position: absolute;
+        top: 0%;
+        left: 0%;
+        // padding-left: 4rem;
+    }
+    .adminDistributorScreen
+    {
+        position: absolute;
+        top: 0%;
+        left: 20%;
+    }
+    .adminSendNotification
+    {
+        position: absolute;
+        top: 0%;
+        right: 30%;
+    }
+}
